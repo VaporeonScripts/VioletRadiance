@@ -33,7 +33,7 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#14141f", "hsla(240, 7.7%, 2.5%, 0.08)"],
     "SCROLLBAR_THIN_THUMB": ["#45475a", "hsla(217, 7.6%, 33.5%, 0.3)"],
     "SCROLLBAR_AUTO_THUMB": ["#979BF6"],
-    "INTERACTIVE_NORMAL": ["#5025fc"],
+    "INTERACTIVE_NORMAL": ["#eafc25"],
     "INTERACTIVE_HOVER": ["#331982"],
     "INTERACTIVE_ACTIVE": ["#d8c9ff"],
     "INTERACTIVE_MUTED": ["#2f2872"],
