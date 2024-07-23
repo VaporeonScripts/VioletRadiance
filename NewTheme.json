@@ -15,7 +15,7 @@
     "TEXT_MUTED": ["#d503ff"],
     "BACKGROUND_PRIMARY": ["#080228", "#080228", "#080228"],
     "BACKGROUND_SECONDARY": ["#080228", "#080228", "#080228"],
-    "BACKGROUND_SECONDARY_ALT": ["#cbbaf7", "#cbbaf7", "#cbbaf7"],
+    "BACKGROUND_SECONDARY_ALT": ["#ad91f2", "#ad91f2", "#ad91f2"],
     "BACKGROUND_TERTIARY": ["#130a2e", "#130a2e", "#130a2e"],
     "BACKGROUND_ACCENT": ["#130a2e", "#130a2e", "#130a2e"],
     "BACKGROUND_MOBILE_PRIMARY": ["#080228", "#080228", "#080228"],
