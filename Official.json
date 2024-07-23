@@ -183,7 +183,7 @@
   "plus": {
     "version": "0",
     "customOverlays": true,
-    "iconpack": "rosiecord-plumpy",
+    "iconpack": "materialtwotone",
     "icons": {
       "ic_new_pins": "#634fff",
       "StatusStreaming": "#6052ff",
