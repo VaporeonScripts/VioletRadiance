@@ -1,6 +1,6 @@
 {
-  "name": "VioletRadiance 2.0 [Animated Edition]",
-  "version": "2.0",
+  "name": "VioletRadiance 2.1 [Animated Edition]",
+  "version": "2.1",
   "description": "VioletRadiance, The Theme For People Who Love Customization.",
   "authors": [
     {
@@ -9,10 +9,10 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#0affd2"],
+    "HEADER_PRIMARY": ["#eaff03"],
     "HEADER_SECONDARY": ["#a008ff"],
     "TEXT_NORMAL": ["#ba0dff", "#ba0dff", "#ba0dff"],
-    "TEXT_MUTED": ["#b7d15a"],     
+    "TEXT_MUTED": ["#03ffff"],     
     "BACKGROUND_PRIMARY": ["#080228", "#080228", "#080228"],
     "BACKGROUND_SECONDARY": ["#080228", "#080228", "#080228"],
     "BACKGROUND_SECONDARY_ALT": ["#480952", "#480952", "#480952"],
