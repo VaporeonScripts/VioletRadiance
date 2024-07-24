@@ -36,7 +36,7 @@
     "INTERACTIVE_NORMAL": ["#eafc25"],
     "INTERACTIVE_HOVER": ["#eb0dff"],
     "INTERACTIVE_ACTIVE": ["#ff17ff"],
-    "INTERACTIVE_MUTED": ["#7e8c22"],
+    "INTERACTIVE_MUTED": ["#20a19a"],
     "CHANNEL_ICON": ["#d8c9ff", "#d8c9ff", "#d8c9ff"],
     "ACTIVITY_CARD_BACKGROUND": ["#130a2e", "#ffffff", "#130a2e"],
     "CHANNELS_DEFAULT": ["#5e61ff", "#5e61ff", "#5e61ff"],
