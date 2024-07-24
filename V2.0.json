@@ -9,10 +9,10 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#fb0aff"],
+    "HEADER_PRIMARY": ["#0affd2"],
     "HEADER_SECONDARY": ["#a008ff"],
     "TEXT_NORMAL": ["#ba0dff", "#ba0dff", "#ba0dff"],
-    "TEXT_MUTED": ["#f3ff05"],     
+    "TEXT_MUTED": ["#1ceda4"],     
     "BACKGROUND_PRIMARY": ["#080228", "#080228", "#080228"],
     "BACKGROUND_SECONDARY": ["#080228", "#080228", "#080228"],
     "BACKGROUND_SECONDARY_ALT": ["#480952", "#480952", "#480952"],
