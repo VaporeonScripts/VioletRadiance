@@ -182,6 +182,7 @@
   },
   "plus": {
     "version": "0",
+    "mentionLineColor": "#03fcdf",
     "customOverlays": true,
     "iconpack": "materialtwotone",
     "icons": {
