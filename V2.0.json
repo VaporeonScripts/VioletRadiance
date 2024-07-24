@@ -9,7 +9,7 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#03d5ff"],
+    "HEADER_PRIMARY": ["#fb0aff"],
     "HEADER_SECONDARY": ["#a008ff"],
     "TEXT_NORMAL": ["#ba0dff", "#ba0dff", "#ba0dff"],
     "TEXT_MUTED": ["#f3ff05"],     
@@ -45,7 +45,7 @@
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#080228"],
     "SPOILER_HIDDEN_BACKGROUND": ["#5d1e94"],
     "TEXT_DANGER": ["#7a05ff", "#7a05ff", "#7a05ff"],
-    "TEXT_LINK": ["#eeff05", "#eeff05", "#eeff05"],
+    "TEXT_LINK": ["#05ffe6", "#05ffe6", "#05ffe6"],
     "CARD_PRIMARY_BG": ["#080228"],
     "CARD_SECONDARY_BG": ["#2c265c"],
     "BG_BACKDROP": ["#04010173"]
