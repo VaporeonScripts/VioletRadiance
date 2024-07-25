@@ -13,7 +13,7 @@
     "HEADER_SECONDARY": ["#a008ff"],
     "TEXT_NORMAL": ["#ba0dff", "#ba0dff", "#ba0dff"],
     "TEXT_MUTED": ["#03ffff"],     
-    "BACKGROUND_PRIMARY": ["#0e1623", "#0e1623", "#0e1623"],
+    "BACKGROUND_PRIMARY": ["#000000", "#000000", "#000000"],
     "BACKGROUND_SECONDARY": ["#080228", "#080228", "#080228"],
     "BACKGROUND_SECONDARY_ALT": ["#480952", "#480952", "#480952"],
     "BACKGROUND_TERTIARY": ["#480952", "#480952", "#480952"],
