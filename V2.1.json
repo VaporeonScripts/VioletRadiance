@@ -196,6 +196,26 @@
       "StatusOnline": "#5aeda1"
     }
   },
+"fonts":{
+  "ABCGintoNord-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-BoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-ExtraBoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-MediumItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-SemiboldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
+  "SourceCodePro-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf"
+ },
 "background": {
     "url": "https://raw.githubusercontent.com/VaporeonScripts/Background/main/bg.gif",
     "alpha": 0.5,
